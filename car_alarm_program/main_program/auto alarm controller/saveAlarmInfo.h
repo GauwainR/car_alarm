@@ -1,0 +1,4 @@
+#ifndef SAVEALARMINFO_H
+#define SAVEALARMINFO_H
+
+#endif // SAVEALARMINFO_H
